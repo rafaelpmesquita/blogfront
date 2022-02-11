@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Hind+Madurai:wght@300;400;500;600;700&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Yanone+Kaffeesatz:wght@200;300;400;500;600;700&display=swap');
+
+.Yanone{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.Hind{
+   font-family: 'Hind Madurai', sans-serif; 
+}
+.Lora{
+    font-family: 'Lora', serif;
+}
+.Dancing{
+    font-family: 'Dancing Script', cursive;
+}
+.color{
+    color:#F9D726;
+}
+.bg-color1{
+    background-color:#fac118;
+}
+.bg-color{
+    background-color:#F9D726;
+}
