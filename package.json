@@ -32,6 +32,6 @@
     "tailwindcss": "^2.2.19",
     "vuex-module-decorators": "^2.0.0"
   },
-    "engines": { "node" : "14.16.0" }
+    "engines": { "node" : "14.17.3" }
 
 }
