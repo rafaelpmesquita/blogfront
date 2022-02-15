@@ -33,7 +33,10 @@
     "tailwindcss": "^2.2.19",
     "vuex-module-decorators": "^2.0.0"
   },
-  "engines": { "node" : "14.17.3" }
+  "engines": { "node" : "14.17.3" },
+  "nuxt":{
+    "port": "server.listen(process.env.PORT || 3000)"
+  }
 
   
 
