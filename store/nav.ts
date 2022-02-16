@@ -16,7 +16,7 @@ export default class nav extends VuexModule {
     }
     @Action({ rawError: true })
     public async getNav() {
-        const navs = await $axios.$get('https://apirestrafaelblog.azurewebsites.net/nv')
+        const navs = await $axios.$get('api/nv')
         this.context.commit('SET_ALL_NAVBAR', navs)
     }
     

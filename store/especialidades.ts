@@ -14,7 +14,7 @@ export default class especialidades extends VuexModule {
     }
     @Action({ rawError: true })
     public async getConhecimentos() {
-        const conhecimentos = await $axios.$get('https://apirestrafaelblog.azurewebsites.net/v1')
+        const conhecimentos = await $axios.$get('/api/v1')
         this.context.commit('SET_ALL_CONHECIMENTOS', conhecimentos)
     }
 }

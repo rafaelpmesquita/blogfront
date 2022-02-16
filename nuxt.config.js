@@ -51,5 +51,8 @@ export default {
   axios: {
     proxy: true
   },
- 
+  proxy: {
+    '/api/': { target: 'https://apirestrafaelblog.azurewebsites.net/' ,pathRewrite: { "^/api/": "" }},
+
+  }
 }
