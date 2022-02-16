@@ -1,0 +1,115 @@
+{
+    "Langs":[
+        {
+
+            "Lang":"Amo programar",
+            "img":"https://www.alura.com.br/artigos/assets/formacao-linguagem-c-plus-plus/img-01.png",
+            "desc":"Sou uma pessoa que ama programar, todos os dias procuro usar pelo menos 1 hora para mexer com essa área(sem contar o tempo que uso para faculdade/estágio)."
+        },
+        {
+         
+            "Lang":"Angular",
+            "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png",
+            "desc":"Angular é uma plataforma de aplicações web de código-fonte aberto e front-end baseado em TypeScript liderado pela Equipe Angular do Google e por uma comunidade de indivíduos e corporações. Angular é uma reescrita completa do AngularJS, feito pela mesma equipe que o construiu."
+        },
+        {
+         
+            "Lang":"C#",
+            "img":"https://www.bairesdev.com/wp-content/uploads/2021/07/Csharp.svg",
+            "desc":"C# é uma linguagem de programação, multiparadigma, de tipagem forte, desenvolvida pela Microsoft como parte da plataforma .NET. A sua sintaxe orientada a objetos foi baseada no C++ mas inclui muitas influências de outras linguagens de programação, como Object Pascal e, principalmente, Java."
+        },
+        {
+           
+            "Lang":"Vue",
+            "img":"https://vuejs.org/images/logo.svg",
+            "desc":"Vue.js é um framework JavaScript de código-aberto, focado no desenvolvimento de interfaces de usuário e aplicativos de página única."
+        },
+        {
+         
+            "Lang":"Html5, Css, JavaScript",
+            "img":"https://www.alura.com.br/artigos/assets/html-css-js/fundo-card.png",
+            "desc":"O HTML é a base da programação (como se fosse o esqueleto o corpo) O CSS é o que dá estilo aos códigos (como se fosse a roupa que a pessoa utiliza) O Javascript é o que dá movimento e ação (como se fosse o espírito do corpo)."
+        },
+        {
+            
+            "Lang":"Java",
+            "img":"https://dev.java/assets/images/java-logo-vert-blk.png",
+            "desc":"Java é uma linguagem de programação orientada a objetos desenvolvida na década de 90 por uma equipe de programadores chefiada por James Gosling, na empresa Sun Microsystems. Em 2008 o Java foi adquirido pela empresa Oracle Corporation."
+        },
+        {
+           
+            "Lang":"Metodologias Ágeis",
+            "img":"https://cdn.statically.io/img/www.metodoagil.com/f=auto%2Cq=85/wp-content/uploads/2017/08/Métodos-Ágeis.png",
+            "desc":"As metodologias ágeis são uma forma de acelerar entregas de um determinado projeto. Ela consiste no fracionamento de entregas para o cliente final em ciclos menores. Com isso, eventuais problemas podem ser corrigidos mais rapidamente e os planejamentos serem revistos com os métodos ágeis"
+        },
+        {
+           
+            "Lang":".NET framework",
+            "img":"https://image.pngaaa.com/393/592393-middle.png",
+            "desc":"O .NET Framework é uma iniciativa da empresa Microsoft, que visa uma plataforma única para desenvolvimento e execução de sistemas e aplicações. Todo e qualquer código gerado para .NET pode ser executado em qualquer dispositivo que possua um framework de tal plataforma."
+        },
+        {
+           
+            "Lang":"Sql Server",
+            "img":"https://www.pikpng.com/pngl/m/409-4095243_server-clipart-sql-server-microsoft-sql-server-png.png",
+            "desc":"O Microsoft SQL Server é um sistema gerenciador de Banco de dados relacional desenvolvido pela Sybase em parceria com a Microsoft. Esta parceria durou até 1994, com o lançamento da versão para Windows NT e desde então a Microsoft mantém a manutenção do produto."
+        }
+    ],
+    "navBar":[
+        {
+            "texto":"Sobre mim",
+            "rota":"/sobre"
+        },
+        {
+            "texto":"TimeLine",
+            "rota":"/tl"
+        },
+        {
+            "texto":"Conhecimentos",
+            "rota":"/conhecimentos"
+        },
+        {
+            "texto":"Contato",
+            "rota":"/contact"
+        }
+    ],
+    "timeLine":[
+        {
+            "titulo":"2019",
+            "desc":"Ano que me formei na escola pelo Coleguium",
+            "lado":"esq"
+        },
+        {
+            "titulo":"2020",
+            "desc":"Ano que iniciei a faculdade de Ciência da computação na Puc Minas",
+            "lado":"dir"
+        },
+        {
+            "titulo":"Junho de 2020",
+            "desc":"Primeiro período finalizado",
+            "lado":"esq"
+        },
+        {
+            "titulo":"Dezembro de 2020",
+            "desc":"Segundo período finalizado",
+            "lado":"dir"
+        },
+        {
+            "titulo":"Junho de 2021",
+            "desc":"Começei meu estágio no grupo Otimiza e finalizei o terceiro período da faculdade",
+            "lado":"esq"
+        },
+        {
+            "titulo":"Dezembro de 2022",
+            "desc":"Quarto período finalizado",
+            "lado":"dir"
+        },
+        {
+            "titulo":"Hoje",
+            "desc":"Hoje estou no quinto período e trabalhando no grupo Otimiza.",
+            "lado":"esq"
+        }
+       
+    ]
+}
+
