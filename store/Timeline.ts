@@ -14,7 +14,7 @@ export default class Timeline extends VuexModule {
     }
     @Action({ rawError: true })
     public async get() {
-        const tl = await $axios.$get('https://apirestrafaelblog.azurewebsites.net/v1/tl')
+        const tl = await $axios.$get('https://apirestrafaelblog.azurewebsites.net/tl')
         this.context.commit('SET_ALL_TIME', tl)
     }
 }
