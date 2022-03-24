@@ -28,7 +28,7 @@
             <div class="order-1 md:order-2">
                 <span class="px-2">About us</span>
                 <span class="px-2 border-l">Contact us</span>
-                <nuxt-link to="/Login" class="px-2 border-l">Admin area</nuxt-link>
+                <nuxt-link class="px-2 border-l">Admin area</nuxt-link>
             </div>
         </div>
     </div>
