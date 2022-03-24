@@ -1,6 +1,6 @@
 <template>
 <div>
-    <Header/>
+    
     <QuemSouEuTemplate/>
     <TimeLineTemplate/>
     <Conhecimentos/>
